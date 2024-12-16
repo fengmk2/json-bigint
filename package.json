@@ -28,6 +28,8 @@
     "bignumber.js": "^9.0.0"
   },
   "devDependencies": {
+    "beautify-benchmark": "^0.2.4",
+    "benchmark": "^2.1.4",
     "chai": "4.2.0",
     "mocha": "8.0.1"
   }
